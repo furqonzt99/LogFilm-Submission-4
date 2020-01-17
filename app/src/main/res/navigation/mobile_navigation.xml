@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_movie">
+
+    <fragment
+        android:id="@+id/navigation_movie"
+        android:name="id.furqon.logfilm.ui.movielist.MovieFragment"
+        android:label="@string/movie"
+        tools:layout="@layout/fragment_movie" />
+
+    <fragment
+        android:id="@+id/navigation_tv"
+        android:name="id.furqon.logfilm.ui.tvlist.TvFragment"
+        android:label="@string/tv_show"
+        tools:layout="@layout/fragment_tv_show" />
+
+    <fragment
+        android:id="@+id/navigation_favorites"
+        android:name="id.furqon.logfilm.ui.favorites.FavoritesFragment"
+        android:label="@string/favorites"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>

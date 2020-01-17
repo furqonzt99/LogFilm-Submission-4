@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">LogFilm</string>
+    <string name="menu_setting">Setting</string>
+    <string name="tab_movies">MOVIES</string>
+    <string name="tab_tvshows">TV SHOWS</string>
+    <string name="realease_date">Realease Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="duration">Duration</string>
+    <string name="tagline">Tagline</string>
+    <string name="status">Status</string>
+    <string name="like">Like</string>
+    <string name="minutes">" Minutes"</string>
+    <string name="all_ages">All Ages</string>
+    <string name="adult" translatable="false">17+</string>
+    <string name="group">Group</string>
+    <string name="episodes">Episodes</string>
+    <string name="seasons">Seasons</string>
+    <string name="popularity">Popularity</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="movie">Movie</string>
+    <string name="favorites">Favorites</string>
+    <string name="nullMoviesFav">You have no favorite Movies yet</string>
+    <string name="nullTvsFav">You have no favorite Tv Show yet</string>
+    <string name="ifNull">Only available in English</string>
+    <string name="berhasil_ditambah">Added to favorites successfully</string>
+    <string name="berhasil_mengapus">Successfully deleted</string>
+    <string name="dari_favorit">from favorites</string>
+    <string name="gagal_ditambah">Failed to add to favorites</string>
+    <string name="gagal_menghapus">Failed to delete</string>
+    <string name="poster">Poster</string>
+    <string name="waitData">Wait for data to appear!</string>
+</resources>
